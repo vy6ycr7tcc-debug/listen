@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+  <title>Listen — Inward Journey</title>
+  <link rel="stylesheet" href="listen.css">
+</head>
+<body>
+  <div id="app-container">
+    <header class="listen-header">
+      <h1>Listen</h1>
+      <p class="subtitle">poetic narrations</p>
+    </header>
+
+    <main id="main-content">
+      <div id="error-state" class="hidden">
+        <p>No audio tracks available at this moment.</p>
+      </div>
+
+      <!-- Player section (fixed at bottom or top, maybe sticking to top or fixed bottom) -->
+      <div id="player-container" class="hidden">
+        <div class="now-playing-info">
+          <h2 id="np-title"></h2>
+          <p id="np-desc"></p>
+        </div>
+
+        <div class="progress-container">
+          <span id="time-current">0:00</span>
+          <div class="progress-bar-wrapper" id="progress-wrapper">
+            <div class="progress-bar" id="progress-bar"></div>
+          </div>
+          <span id="time-duration">0:00</span>
+        </div>
+
+        <div class="player-controls">
+          <button id="btn-prev" aria-label="Previous Track">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="19 20 9 12 19 4 19 20"></polygon><line x1="5" y1="19" x2="5" y2="5"></line></svg>
+          </button>
+          <button id="btn-play-pause" class="btn-play" aria-label="Play or Pause">
+            <svg id="icon-play" width="32" height="32" viewBox="0 0 24 24" fill="currentColor"><polygon points="5 3 19 12 5 21 5 3"></polygon></svg>
+            <svg id="icon-pause" class="hidden" width="32" height="32" viewBox="0 0 24 24" fill="currentColor"><rect x="6" y="4" width="4" height="16"></rect><rect x="14" y="4" width="4" height="16"></rect></svg>
+          </button>
+          <button id="btn-next" aria-label="Next Track">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="5 4 15 12 5 20 5 4"></polygon><line x1="19" y1="5" x2="19" y2="19"></line></svg>
+          </button>
+        </div>
+      </div>
+
+      <!-- Track lists -->
+      <div id="track-lists-container">
+        <!-- Series will be injected here via JS -->
+      </div>
+    </main>
+  </div>
+
+  <audio id="audio-element" style="display: none;"></audio>
+  <script src="listen.js"></script>
+</body>
+</html>
