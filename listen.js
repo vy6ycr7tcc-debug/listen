@@ -24,7 +24,11 @@ document.addEventListener('DOMContentLoaded', async () => {
   const seriesOrder = [
     "The Evolution of Spirit",
     "The Seven Densities",
-    "Reflections"
+    "Reflections",
+    "Cosmos",
+    "The Adept",
+    "The Archive of Past Choices",
+    "Ancient Practices"
   ];
 
   try {
@@ -55,14 +59,28 @@ document.addEventListener('DOMContentLoaded', async () => {
     const grouped = {
       "The Evolution of Spirit": [],
       "The Seven Densities": [],
-      "Reflections": []
+      "Reflections": [],
+      "Cosmos": [],
+      "The Adept": [],
+      "The Archive of Past Choices": [],
+      "Ancient Practices": []
+    };
+
+    const seriesNameMap = {
+      "cosmos": "Cosmos",
+      "adept": "The Adept",
+      "past": "The Archive of Past Choices",
+      "practices": "Ancient Practices"
     };
 
     trackData.forEach((track, index) => {
       // Map global index for prev/next
       track.globalIndex = index;
-      if (grouped[track.series]) {
-        grouped[track.series].push(track);
+
+      const mappedSeries = seriesNameMap[track.series] || track.series;
+
+      if (grouped[mappedSeries]) {
+        grouped[mappedSeries].push(track);
       } else {
         grouped["Reflections"].push(track);
       }
