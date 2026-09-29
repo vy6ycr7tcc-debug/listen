@@ -130,7 +130,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     });
 
     // Set Audio Source
-    audioElement.src = `audio/narrations/${track.file}`;
+    audioElement.src = track.file;
 
     // Load saved position
     const savedPos = localStorage.getItem(`listen_pos_${track.id}`);
