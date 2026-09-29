@@ -103,7 +103,7 @@
     "id": "HARDSHIP",
     "title": "The Gift of Hardship",
     "series": "evolution",
-    "description": "Suffering as the soul’s most demanding teacher.",
+    "description": "Suffering as the soul\u2019s most demanding teacher.",
     "file": "audio/narrations/the_gift_of_hardship.mp3",
     "durationSecs": 363,
     "status": "draft",
@@ -361,7 +361,7 @@
   },
   {
     "id": "MAG-01",
-    "title": "The Magician — 01 The Ground Of Magic",
+    "title": "The Magician \u2014 01 The Ground Of Magic",
     "series": "magician",
     "description": "An archetype study.",
     "file": "audio/narrations/magician/MAG-01_the-ground-of-magic.mp3",
@@ -371,7 +371,7 @@
   },
   {
     "id": "MAG-01",
-    "title": "The Magician — 01 The Ground Of Magic V2",
+    "title": "The Magician \u2014 01 The Ground Of Magic V2",
     "series": "magician",
     "description": "An archetype study.",
     "file": "audio/narrations/magician/MAG-01_the-ground-of-magic_v2.mp3",
@@ -381,7 +381,7 @@
   },
   {
     "id": "MAG-01",
-    "title": "The Magician — 01 V2 Meditation Paced",
+    "title": "The Magician \u2014 01 V2 Meditation Paced",
     "series": "magician",
     "description": "An archetype study.",
     "file": "audio/narrations/magician/MAG-01_v2_meditation-paced.mp3",
@@ -391,7 +391,7 @@
   },
   {
     "id": "MAG-01",
-    "title": "The Magician — 01 V2 S72",
+    "title": "The Magician \u2014 01 V2 S72",
     "series": "magician",
     "description": "An archetype study.",
     "file": "audio/narrations/magician/MAG-01_v2_s72.mp3",
@@ -401,7 +401,7 @@
   },
   {
     "id": "MAG-01",
-    "title": "The Magician — 01 V2 S80",
+    "title": "The Magician \u2014 01 V2 S80",
     "series": "magician",
     "description": "An archetype study.",
     "file": "audio/narrations/magician/MAG-01_v2_s80.mp3",
@@ -411,7 +411,7 @@
   },
   {
     "id": "MAG-01",
-    "title": "The Magician — 01 V2 Tight Pauses",
+    "title": "The Magician \u2014 01 V2 Tight Pauses",
     "series": "magician",
     "description": "An archetype study.",
     "file": "audio/narrations/magician/MAG-01_v2_tight-pauses.mp3",
@@ -421,7 +421,7 @@
   },
   {
     "id": "MAG-01",
-    "title": "The Magician — 01 Voice Briggs S80",
+    "title": "The Magician \u2014 01 Voice Briggs S80",
     "series": "magician",
     "description": "An archetype study.",
     "file": "audio/narrations/magician/MAG-01_voice_briggs_s80.mp3",
@@ -431,7 +431,7 @@
   },
   {
     "id": "MAG-01",
-    "title": "The Magician — 01 Voice Nosugar S80",
+    "title": "The Magician \u2014 01 Voice Nosugar S80",
     "series": "magician",
     "description": "An archetype study.",
     "file": "audio/narrations/magician/MAG-01_voice_nosugar_s80.mp3",
@@ -441,7 +441,7 @@
   },
   {
     "id": "MAG-01",
-    "title": "The Magician — 01 Voice Paloma S80",
+    "title": "The Magician \u2014 01 Voice Paloma S80",
     "series": "magician",
     "description": "An archetype study.",
     "file": "audio/narrations/magician/MAG-01_voice_paloma_s80.mp3",
@@ -451,7 +451,7 @@
   },
   {
     "id": "MAG-01",
-    "title": "The Magician — 01 Voice Truthteller S80",
+    "title": "The Magician \u2014 01 Voice Truthteller S80",
     "series": "magician",
     "description": "An archetype study.",
     "file": "audio/narrations/magician/MAG-01_voice_truthteller_s80.mp3",
@@ -461,7 +461,7 @@
   },
   {
     "id": "MAG-02",
-    "title": "The Magician — 02 V2 Paced",
+    "title": "The Magician \u2014 02 V2 Paced",
     "series": "magician",
     "description": "An archetype study.",
     "file": "audio/narrations/magician/MAG-02_v2_paced.mp3",
@@ -471,7 +471,7 @@
   },
   {
     "id": "MAG-03",
-    "title": "The Magician — 03 V2 Paced",
+    "title": "The Magician \u2014 03 V2 Paced",
     "series": "magician",
     "description": "An archetype study.",
     "file": "audio/narrations/magician/MAG-03_v2_paced.mp3",
@@ -481,7 +481,7 @@
   },
   {
     "id": "MAG-04",
-    "title": "The Magician — 04 V2 Paced",
+    "title": "The Magician \u2014 04 V2 Paced",
     "series": "magician",
     "description": "An archetype study.",
     "file": "audio/narrations/magician/MAG-04_v2_paced.mp3",
@@ -491,7 +491,7 @@
   },
   {
     "id": "MAG-05",
-    "title": "The Magician — 05 V2 Paced",
+    "title": "The Magician \u2014 05 V2 Paced",
     "series": "magician",
     "description": "An archetype study.",
     "file": "audio/narrations/magician/MAG-05_v2_paced.mp3",
@@ -505,7 +505,7 @@
     "series": "cosmos",
     "description": "The universe is not empty. It is crowded with neighbors.",
     "file": "audio/narrations/other_worlds.mp3",
-    "durationSecs": 321,
+    "durationSecs": 307,
     "status": "draft",
     "voice": "Aria"
   },
@@ -515,7 +515,7 @@
     "series": "cosmos",
     "description": "Love becomes light, light becomes the worlds.",
     "file": "audio/narrations/atoms_and_light.mp3",
-    "durationSecs": 332,
+    "durationSecs": 311,
     "status": "draft",
     "voice": "Aria"
   },
@@ -525,7 +525,7 @@
     "series": "cosmos",
     "description": "Not every storm is aimed at you. Steady the heart and walk on.",
     "file": "audio/narrations/psychic_greetings.mp3",
-    "durationSecs": 323,
+    "durationSecs": 302,
     "status": "draft",
     "voice": "Aria"
   },
@@ -535,7 +535,7 @@
     "series": "adept",
     "description": "Before the path, a voice. The first lesson is learning to listen.",
     "file": "audio/narrations/adept_1_the_call.mp3",
-    "durationSecs": 300,
+    "durationSecs": 296,
     "status": "draft",
     "voice": "Aria"
   },
@@ -545,7 +545,7 @@
     "series": "adept",
     "description": "The middle of the path is a forge, not a punishment.",
     "file": "audio/narrations/adept_2_the_crucible.mp3",
-    "durationSecs": 339,
+    "durationSecs": 321,
     "status": "draft",
     "voice": "Aria"
   },
@@ -555,7 +555,7 @@
     "series": "adept",
     "description": "What the servant becomes: the shining one, power aimed at service.",
     "file": "audio/narrations/adept_3_the_radiance.mp3",
-    "durationSecs": 341,
+    "durationSecs": 306,
     "status": "draft",
     "voice": "Aria"
   },
@@ -565,7 +565,7 @@
     "series": "past",
     "description": "Between Mars and Jupiter, rubble still testifies to a choice.",
     "file": "audio/narrations/past_maldek.mp3",
-    "durationSecs": 369,
+    "durationSecs": 225,
     "status": "draft",
     "voice": "Aria"
   },
@@ -575,7 +575,7 @@
     "series": "past",
     "description": "A planet of war that lost its water and learned to leave.",
     "file": "audio/narrations/past_mars.mp3",
-    "durationSecs": 291,
+    "durationSecs": 286,
     "status": "draft",
     "voice": "Aria"
   },
@@ -585,7 +585,7 @@
     "series": "past",
     "description": "Whether history or mirror: what happens when power forgets love.",
     "file": "audio/narrations/past_atlantis.mp3",
-    "durationSecs": 291,
+    "durationSecs": 278,
     "status": "draft",
     "voice": "Aria"
   },
@@ -595,7 +595,7 @@
     "series": "past",
     "description": "A civilization that tried to build a hospital for the soul.",
     "file": "audio/narrations/past_egypt.mp3",
-    "durationSecs": 286,
+    "durationSecs": 276,
     "status": "draft",
     "voice": "Aria"
   },
@@ -605,7 +605,7 @@
     "series": "practices",
     "description": "Humanity's oldest technology: a stone, held with intention.",
     "file": "audio/narrations/practice_stones.mp3",
-    "durationSecs": 307,
+    "durationSecs": 291,
     "status": "draft",
     "voice": "Aria"
   },
@@ -615,7 +615,7 @@
     "series": "practices",
     "description": "Where earth climbs toward heaven and heaven descends.",
     "file": "audio/narrations/practice_pyramids.mp3",
-    "durationSecs": 255,
+    "durationSecs": 300,
     "status": "draft",
     "voice": "Aria"
   },
@@ -625,7 +625,7 @@
     "series": "practices",
     "description": "The ancients lived inside these questions. The water is still there.",
     "file": "audio/narrations/practice_disciplines.mp3",
-    "durationSecs": 332,
+    "durationSecs": 330,
     "status": "draft",
     "voice": "Aria"
   },
@@ -635,7 +635,7 @@
     "series": "practices",
     "description": "Different vocabularies, one grammar: the hidden order of things.",
     "file": "audio/narrations/practice_others.mp3",
-    "durationSecs": 328,
+    "durationSecs": 332,
     "status": "draft",
     "voice": "Aria"
   }
