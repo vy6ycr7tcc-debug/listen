@@ -1,1 +1,642 @@
-[{"id": "BEGIN", "title": "The Beginning", "series": "evolution", "description": "Before anything was, everything was. The first freedom, the first love, the first light.", "file": "audio/narrations/the_beginning.mp3", "durationSecs": 235, "status": "draft", "voice": "Aria"}, {"id": "D1", "title": "First Density: Learning to Be", "series": "densities", "description": "Rock, fire, water, air: consciousness learning simply to exist.", "file": "audio/narrations/density_1.mp3", "durationSecs": 339, "status": "draft", "voice": "Aria"}, {"id": "D2", "title": "Second Density: Learning to Grow", "series": "densities", "description": "The green world turns toward the light and learns to expand.", "file": "audio/narrations/density_2.mp3", "durationSecs": 298, "status": "draft", "voice": "Aria"}, {"id": "D3", "title": "Third Density: The Great Choice", "series": "densities", "description": "Behind the veil of forgetting, the soul chooses how to serve.", "file": "audio/narrations/density_3.mp3", "durationSecs": 300, "status": "draft", "voice": "Aria"}, {"id": "D4", "title": "Fourth Density: The World of Love", "series": "densities", "description": "A luminous planet where minds are one and love is understood.", "file": "audio/narrations/density_4.mp3", "durationSecs": 348, "status": "draft", "voice": "Aria"}, {"id": "D5", "title": "Fifth Density: The Hall of Wisdom", "series": "densities", "description": "Alone with light itself, the soul learns to see clearly.", "file": "audio/narrations/density_5.mp3", "durationSecs": 317, "status": "draft", "voice": "Aria"}, {"id": "D6", "title": "Sixth Density: The Merging", "series": "densities", "description": "Countless flames flowing together into one greater light.", "file": "audio/narrations/density_6.mp3", "durationSecs": 291, "status": "draft", "voice": "Aria"}, {"id": "D7", "title": "Seventh Density: The Gateway", "series": "densities", "description": "Completion. The octave turns, and creation begins again.", "file": "audio/narrations/density_7.mp3", "durationSecs": 273, "status": "draft", "voice": "Aria"}, {"id": "PATH", "title": "The Path", "series": "evolution", "description": "Seven classrooms: the journey of a soul from stone to star.", "file": "audio/narrations/the_path.mp3", "durationSecs": 483, "status": "draft", "voice": "Aria"}, {"id": "GREATER", "title": "The Greater Life", "series": "evolution", "description": "What happens when we die, and why death is a beginning.", "file": "audio/narrations/the_greater_life.mp3", "durationSecs": 371, "status": "draft", "voice": "Aria"}, {"id": "HARDSHIP", "title": "The Gift of Hardship", "series": "evolution", "description": "Suffering as the soul\u2019s most demanding teacher.", "file": "audio/narrations/the_gift_of_hardship.mp3", "durationSecs": 363, "status": "draft", "voice": "Aria"}, {"id": "THOUGHT", "title": "The Power of Thought", "series": "evolution", "description": "How attention shapes the world you walk through.", "file": "audio/narrations/the_power_of_thought.mp3", "durationSecs": 380, "status": "draft", "voice": "Aria"}, {"id": "ONE", "title": "One", "series": "evolution", "description": "The recognition that ends all separation.", "file": "audio/narrations/one.mp3", "durationSecs": 390, "status": "draft", "voice": "Aria"}, {"id": "OPEN-HAND", "title": "The Open Hand", "series": "reflections", "description": "The choice to love, made with an open hand.", "file": "audio/narrations/the_open_hand.mp3", "durationSecs": 259, "status": "final", "voice": "Aria"}, {"id": "TREE", "title": "The Catalyst of the Body", "series": "reflections", "description": "The body as teacher: pain, pleasure, and presence.", "file": "audio/narrations/catalyst_of_the_body_tree.mp3", "durationSecs": 267, "status": "final", "voice": "Aria"}, {"id": "BODY-v1", "title": "The Catalyst of the Body (first version)", "series": "reflections", "description": "Early version, superseded by the final cut above.", "file": "audio/narrations/catalyst_of_the_body.mp3", "durationSecs": 442, "status": "superseded", "voice": "Aria"}, {"id": "IGLOO", "title": "Flourish", "series": "reflections", "description": "A quiet blessing for new beginnings.", "file": "audio/narrations/flourish_igloo.mp3", "durationSecs": 201, "status": "draft", "voice": "Aria"}, {"id": "THREE-ISLANDS", "title": "Three Islands", "series": "reflections", "description": "Three islands, three lessons, one crossing.", "file": "audio/narrations/three-islands-full.mp3", "durationSecs": 214, "status": "draft", "voice": "Aria"}, {"id": "STAR-WITHIN", "title": "Star Within", "series": "reflections", "description": "The light you are looking for is looking through your eyes.", "file": "audio/narrations/star-within-narration.mp3", "durationSecs": 110, "status": "draft", "voice": "Aria"}, {"id": "J01", "title": "The Shore", "series": "journey", "description": "A station on the crossing.", "file": "audio/narrations/journey/J01_the_shore.mp3", "durationSecs": 46, "status": "final", "voice": "various"}, {"id": "J02", "title": "The Crossing", "series": "journey", "description": "A station on the crossing.", "file": "audio/narrations/journey/J02_the_crossing.mp3", "durationSecs": 41, "status": "final", "voice": "various"}, {"id": "J03", "title": "Arrival", "series": "journey", "description": "A station on the crossing.", "file": "audio/narrations/journey/J03_arrival.mp3", "durationSecs": 45, "status": "final", "voice": "various"}, {"id": "J04", "title": "The Magician", "series": "journey", "description": "A station on the crossing.", "file": "audio/narrations/journey/J04_the_magician.mp3", "durationSecs": 40, "status": "final", "voice": "various"}, {"id": "J05", "title": "The High Priestess", "series": "journey", "description": "A station on the crossing.", "file": "audio/narrations/journey/J05_the_high_priestess.mp3", "durationSecs": 48, "status": "final", "voice": "various"}, {"id": "J06", "title": "The Empress", "series": "journey", "description": "A station on the crossing.", "file": "audio/narrations/journey/J06_the_empress.mp3", "durationSecs": 45, "status": "final", "voice": "various"}, {"id": "J07", "title": "The Emperor", "series": "journey", "description": "A station on the crossing.", "file": "audio/narrations/journey/J07_the_emperor.mp3", "durationSecs": 48, "status": "final", "voice": "various"}, {"id": "J08", "title": "The Hierophant", "series": "journey", "description": "A station on the crossing.", "file": "audio/narrations/journey/J08_the_hierophant.mp3", "durationSecs": 48, "status": "final", "voice": "various"}, {"id": "J09", "title": "The Lovers", "series": "journey", "description": "A station on the crossing.", "file": "audio/narrations/journey/J09_the_lovers.mp3", "durationSecs": 52, "status": "final", "voice": "various"}, {"id": "J10", "title": "The Chariot", "series": "journey", "description": "A station on the crossing.", "file": "audio/narrations/journey/J10_the_chariot.mp3", "durationSecs": 49, "status": "final", "voice": "various"}, {"id": "J11", "title": "The Return", "series": "journey", "description": "A station on the crossing.", "file": "audio/narrations/journey/J11_the_return.mp3", "durationSecs": 39, "status": "final", "voice": "various"}, {"id": "L03", "title": "The Untying", "series": "lessons", "description": "A lesson on the road.", "file": "audio/narrations/lessons/LESSON-03_the-untying_paced.mp3", "durationSecs": 639, "status": "final", "voice": "various"}, {"id": "L04", "title": "Without Price", "series": "lessons", "description": "A lesson on the road.", "file": "audio/narrations/lessons/LESSON-04_without-price_paced.mp3", "durationSecs": 570, "status": "final", "voice": "various"}, {"id": "L05", "title": "The Fire in the Hand", "series": "lessons", "description": "A lesson on the road.", "file": "audio/narrations/lessons/LESSON-05_the-fire-in-the-hand_paced.mp3", "durationSecs": 621, "status": "final", "voice": "various"}, {"id": "L06", "title": "What Is", "series": "lessons", "description": "A lesson on the road.", "file": "audio/narrations/lessons/LESSON-06_what-is_paced.mp3", "durationSecs": 624, "status": "final", "voice": "various"}, {"id": "L07", "title": "The Dark and the Lantern", "series": "lessons", "description": "A lesson on the road.", "file": "audio/narrations/lessons/LESSON-07_the-dark-and-the-lantern_paced.mp3", "durationSecs": 580, "status": "final", "voice": "various"}, {"id": "TEMPLE", "title": "One Road, Twenty-Two Stations", "series": "temple", "description": "The full walk, twenty-two stations, one road.", "file": "audio/narrations/temple/temple-tour.mp3", "durationSecs": 637, "status": "final", "voice": "various"}, {"id": "MAG-01", "title": "The Magician \u2014 01 The Ground Of Magic", "series": "magician", "description": "An archetype study.", "file": "audio/narrations/magician/MAG-01_the-ground-of-magic.mp3", "durationSecs": 39, "status": "final", "voice": "various"}, {"id": "MAG-01", "title": "The Magician \u2014 01 The Ground Of Magic V2", "series": "magician", "description": "An archetype study.", "file": "audio/narrations/magician/MAG-01_the-ground-of-magic_v2.mp3", "durationSecs": 43, "status": "final", "voice": "various"}, {"id": "MAG-01", "title": "The Magician \u2014 01 V2 Meditation Paced", "series": "magician", "description": "An archetype study.", "file": "audio/narrations/magician/MAG-01_v2_meditation-paced.mp3", "durationSecs": 65, "status": "final", "voice": "various"}, {"id": "MAG-01", "title": "The Magician \u2014 01 V2 S72", "series": "magician", "description": "An archetype study.", "file": "audio/narrations/magician/MAG-01_v2_s72.mp3", "durationSecs": 54, "status": "final", "voice": "various"}, {"id": "MAG-01", "title": "The Magician \u2014 01 V2 S80", "series": "magician", "description": "An archetype study.", "file": "audio/narrations/magician/MAG-01_v2_s80.mp3", "durationSecs": 48, "status": "final", "voice": "various"}, {"id": "MAG-01", "title": "The Magician \u2014 01 V2 Tight Pauses", "series": "magician", "description": "An archetype study.", "file": "audio/narrations/magician/MAG-01_v2_tight-pauses.mp3", "durationSecs": 58, "status": "final", "voice": "various"}, {"id": "MAG-01", "title": "The Magician \u2014 01 Voice Briggs S80", "series": "magician", "description": "An archetype study.", "file": "audio/narrations/magician/MAG-01_voice_briggs_s80.mp3", "durationSecs": 46, "status": "final", "voice": "various"}, {"id": "MAG-01", "title": "The Magician \u2014 01 Voice Nosugar S80", "series": "magician", "description": "An archetype study.", "file": "audio/narrations/magician/MAG-01_voice_nosugar_s80.mp3", "durationSecs": 54, "status": "final", "voice": "various"}, {"id": "MAG-01", "title": "The Magician \u2014 01 Voice Paloma S80", "series": "magician", "description": "An archetype study.", "file": "audio/narrations/magician/MAG-01_voice_paloma_s80.mp3", "durationSecs": 59, "status": "final", "voice": "various"}, {"id": "MAG-01", "title": "The Magician \u2014 01 Voice Truthteller S80", "series": "magician", "description": "An archetype study.", "file": "audio/narrations/magician/MAG-01_voice_truthteller_s80.mp3", "durationSecs": 58, "status": "final", "voice": "various"}, {"id": "MAG-02", "title": "The Magician \u2014 02 V2 Paced", "series": "magician", "description": "An archetype study.", "file": "audio/narrations/magician/MAG-02_v2_paced.mp3", "durationSecs": 60, "status": "final", "voice": "various"}, {"id": "MAG-03", "title": "The Magician \u2014 03 V2 Paced", "series": "magician", "description": "An archetype study.", "file": "audio/narrations/magician/MAG-03_v2_paced.mp3", "durationSecs": 56, "status": "final", "voice": "various"}, {"id": "MAG-04", "title": "The Magician \u2014 04 V2 Paced", "series": "magician", "description": "An archetype study.", "file": "audio/narrations/magician/MAG-04_v2_paced.mp3", "durationSecs": 61, "status": "final", "voice": "various"}, {"id": "MAG-05", "title": "The Magician \u2014 05 V2 Paced", "series": "magician", "description": "An archetype study.", "file": "audio/narrations/magician/MAG-05_v2_paced.mp3", "durationSecs": 59, "status": "final", "voice": "various"}]
+[
+  {
+    "id": "BEGIN",
+    "title": "The Beginning",
+    "series": "evolution",
+    "description": "Before anything was, everything was. The first freedom, the first love, the first light.",
+    "file": "audio/narrations/the_beginning.mp3",
+    "durationSecs": 235,
+    "status": "draft",
+    "voice": "Aria"
+  },
+  {
+    "id": "D1",
+    "title": "First Density: Learning to Be",
+    "series": "densities",
+    "description": "Rock, fire, water, air: consciousness learning simply to exist.",
+    "file": "audio/narrations/density_1.mp3",
+    "durationSecs": 339,
+    "status": "draft",
+    "voice": "Aria"
+  },
+  {
+    "id": "D2",
+    "title": "Second Density: Learning to Grow",
+    "series": "densities",
+    "description": "The green world turns toward the light and learns to expand.",
+    "file": "audio/narrations/density_2.mp3",
+    "durationSecs": 298,
+    "status": "draft",
+    "voice": "Aria"
+  },
+  {
+    "id": "D3",
+    "title": "Third Density: The Great Choice",
+    "series": "densities",
+    "description": "Behind the veil of forgetting, the soul chooses how to serve.",
+    "file": "audio/narrations/density_3.mp3",
+    "durationSecs": 300,
+    "status": "draft",
+    "voice": "Aria"
+  },
+  {
+    "id": "D4",
+    "title": "Fourth Density: The World of Love",
+    "series": "densities",
+    "description": "A luminous planet where minds are one and love is understood.",
+    "file": "audio/narrations/density_4.mp3",
+    "durationSecs": 348,
+    "status": "draft",
+    "voice": "Aria"
+  },
+  {
+    "id": "D5",
+    "title": "Fifth Density: The Hall of Wisdom",
+    "series": "densities",
+    "description": "Alone with light itself, the soul learns to see clearly.",
+    "file": "audio/narrations/density_5.mp3",
+    "durationSecs": 317,
+    "status": "draft",
+    "voice": "Aria"
+  },
+  {
+    "id": "D6",
+    "title": "Sixth Density: The Merging",
+    "series": "densities",
+    "description": "Countless flames flowing together into one greater light.",
+    "file": "audio/narrations/density_6.mp3",
+    "durationSecs": 291,
+    "status": "draft",
+    "voice": "Aria"
+  },
+  {
+    "id": "D7",
+    "title": "Seventh Density: The Gateway",
+    "series": "densities",
+    "description": "Completion. The octave turns, and creation begins again.",
+    "file": "audio/narrations/density_7.mp3",
+    "durationSecs": 273,
+    "status": "draft",
+    "voice": "Aria"
+  },
+  {
+    "id": "PATH",
+    "title": "The Path",
+    "series": "evolution",
+    "description": "Seven classrooms: the journey of a soul from stone to star.",
+    "file": "audio/narrations/the_path.mp3",
+    "durationSecs": 483,
+    "status": "draft",
+    "voice": "Aria"
+  },
+  {
+    "id": "GREATER",
+    "title": "The Greater Life",
+    "series": "evolution",
+    "description": "What happens when we die, and why death is a beginning.",
+    "file": "audio/narrations/the_greater_life.mp3",
+    "durationSecs": 371,
+    "status": "draft",
+    "voice": "Aria"
+  },
+  {
+    "id": "HARDSHIP",
+    "title": "The Gift of Hardship",
+    "series": "evolution",
+    "description": "Suffering as the soul’s most demanding teacher.",
+    "file": "audio/narrations/the_gift_of_hardship.mp3",
+    "durationSecs": 363,
+    "status": "draft",
+    "voice": "Aria"
+  },
+  {
+    "id": "THOUGHT",
+    "title": "The Power of Thought",
+    "series": "evolution",
+    "description": "How attention shapes the world you walk through.",
+    "file": "audio/narrations/the_power_of_thought.mp3",
+    "durationSecs": 380,
+    "status": "draft",
+    "voice": "Aria"
+  },
+  {
+    "id": "ONE",
+    "title": "One",
+    "series": "evolution",
+    "description": "The recognition that ends all separation.",
+    "file": "audio/narrations/one.mp3",
+    "durationSecs": 390,
+    "status": "draft",
+    "voice": "Aria"
+  },
+  {
+    "id": "OPEN-HAND",
+    "title": "The Open Hand",
+    "series": "reflections",
+    "description": "The choice to love, made with an open hand.",
+    "file": "audio/narrations/the_open_hand.mp3",
+    "durationSecs": 259,
+    "status": "final",
+    "voice": "Aria"
+  },
+  {
+    "id": "TREE",
+    "title": "The Catalyst of the Body",
+    "series": "reflections",
+    "description": "The body as teacher: pain, pleasure, and presence.",
+    "file": "audio/narrations/catalyst_of_the_body_tree.mp3",
+    "durationSecs": 267,
+    "status": "final",
+    "voice": "Aria"
+  },
+  {
+    "id": "BODY-v1",
+    "title": "The Catalyst of the Body (first version)",
+    "series": "reflections",
+    "description": "Early version, superseded by the final cut above.",
+    "file": "audio/narrations/catalyst_of_the_body.mp3",
+    "durationSecs": 442,
+    "status": "superseded",
+    "voice": "Aria"
+  },
+  {
+    "id": "IGLOO",
+    "title": "Flourish",
+    "series": "reflections",
+    "description": "A quiet blessing for new beginnings.",
+    "file": "audio/narrations/flourish_igloo.mp3",
+    "durationSecs": 201,
+    "status": "draft",
+    "voice": "Aria"
+  },
+  {
+    "id": "THREE-ISLANDS",
+    "title": "Three Islands",
+    "series": "reflections",
+    "description": "Three islands, three lessons, one crossing.",
+    "file": "audio/narrations/three-islands-full.mp3",
+    "durationSecs": 214,
+    "status": "draft",
+    "voice": "Aria"
+  },
+  {
+    "id": "STAR-WITHIN",
+    "title": "Star Within",
+    "series": "reflections",
+    "description": "The light you are looking for is looking through your eyes.",
+    "file": "audio/narrations/star-within-narration.mp3",
+    "durationSecs": 110,
+    "status": "draft",
+    "voice": "Aria"
+  },
+  {
+    "id": "J01",
+    "title": "The Shore",
+    "series": "journey",
+    "description": "A station on the crossing.",
+    "file": "audio/narrations/journey/J01_the_shore.mp3",
+    "durationSecs": 46,
+    "status": "final",
+    "voice": "various"
+  },
+  {
+    "id": "J02",
+    "title": "The Crossing",
+    "series": "journey",
+    "description": "A station on the crossing.",
+    "file": "audio/narrations/journey/J02_the_crossing.mp3",
+    "durationSecs": 41,
+    "status": "final",
+    "voice": "various"
+  },
+  {
+    "id": "J03",
+    "title": "Arrival",
+    "series": "journey",
+    "description": "A station on the crossing.",
+    "file": "audio/narrations/journey/J03_arrival.mp3",
+    "durationSecs": 45,
+    "status": "final",
+    "voice": "various"
+  },
+  {
+    "id": "J04",
+    "title": "The Magician",
+    "series": "journey",
+    "description": "A station on the crossing.",
+    "file": "audio/narrations/journey/J04_the_magician.mp3",
+    "durationSecs": 40,
+    "status": "final",
+    "voice": "various"
+  },
+  {
+    "id": "J05",
+    "title": "The High Priestess",
+    "series": "journey",
+    "description": "A station on the crossing.",
+    "file": "audio/narrations/journey/J05_the_high_priestess.mp3",
+    "durationSecs": 48,
+    "status": "final",
+    "voice": "various"
+  },
+  {
+    "id": "J06",
+    "title": "The Empress",
+    "series": "journey",
+    "description": "A station on the crossing.",
+    "file": "audio/narrations/journey/J06_the_empress.mp3",
+    "durationSecs": 45,
+    "status": "final",
+    "voice": "various"
+  },
+  {
+    "id": "J07",
+    "title": "The Emperor",
+    "series": "journey",
+    "description": "A station on the crossing.",
+    "file": "audio/narrations/journey/J07_the_emperor.mp3",
+    "durationSecs": 48,
+    "status": "final",
+    "voice": "various"
+  },
+  {
+    "id": "J08",
+    "title": "The Hierophant",
+    "series": "journey",
+    "description": "A station on the crossing.",
+    "file": "audio/narrations/journey/J08_the_hierophant.mp3",
+    "durationSecs": 48,
+    "status": "final",
+    "voice": "various"
+  },
+  {
+    "id": "J09",
+    "title": "The Lovers",
+    "series": "journey",
+    "description": "A station on the crossing.",
+    "file": "audio/narrations/journey/J09_the_lovers.mp3",
+    "durationSecs": 52,
+    "status": "final",
+    "voice": "various"
+  },
+  {
+    "id": "J10",
+    "title": "The Chariot",
+    "series": "journey",
+    "description": "A station on the crossing.",
+    "file": "audio/narrations/journey/J10_the_chariot.mp3",
+    "durationSecs": 49,
+    "status": "final",
+    "voice": "various"
+  },
+  {
+    "id": "J11",
+    "title": "The Return",
+    "series": "journey",
+    "description": "A station on the crossing.",
+    "file": "audio/narrations/journey/J11_the_return.mp3",
+    "durationSecs": 39,
+    "status": "final",
+    "voice": "various"
+  },
+  {
+    "id": "L03",
+    "title": "The Untying",
+    "series": "lessons",
+    "description": "A lesson on the road.",
+    "file": "audio/narrations/lessons/LESSON-03_the-untying_paced.mp3",
+    "durationSecs": 639,
+    "status": "final",
+    "voice": "various"
+  },
+  {
+    "id": "L04",
+    "title": "Without Price",
+    "series": "lessons",
+    "description": "A lesson on the road.",
+    "file": "audio/narrations/lessons/LESSON-04_without-price_paced.mp3",
+    "durationSecs": 570,
+    "status": "final",
+    "voice": "various"
+  },
+  {
+    "id": "L05",
+    "title": "The Fire in the Hand",
+    "series": "lessons",
+    "description": "A lesson on the road.",
+    "file": "audio/narrations/lessons/LESSON-05_the-fire-in-the-hand_paced.mp3",
+    "durationSecs": 621,
+    "status": "final",
+    "voice": "various"
+  },
+  {
+    "id": "L06",
+    "title": "What Is",
+    "series": "lessons",
+    "description": "A lesson on the road.",
+    "file": "audio/narrations/lessons/LESSON-06_what-is_paced.mp3",
+    "durationSecs": 624,
+    "status": "final",
+    "voice": "various"
+  },
+  {
+    "id": "L07",
+    "title": "The Dark and the Lantern",
+    "series": "lessons",
+    "description": "A lesson on the road.",
+    "file": "audio/narrations/lessons/LESSON-07_the-dark-and-the-lantern_paced.mp3",
+    "durationSecs": 580,
+    "status": "final",
+    "voice": "various"
+  },
+  {
+    "id": "TEMPLE",
+    "title": "One Road, Twenty-Two Stations",
+    "series": "temple",
+    "description": "The full walk, twenty-two stations, one road.",
+    "file": "audio/narrations/temple/temple-tour.mp3",
+    "durationSecs": 637,
+    "status": "final",
+    "voice": "various"
+  },
+  {
+    "id": "MAG-01",
+    "title": "The Magician — 01 The Ground Of Magic",
+    "series": "magician",
+    "description": "An archetype study.",
+    "file": "audio/narrations/magician/MAG-01_the-ground-of-magic.mp3",
+    "durationSecs": 39,
+    "status": "final",
+    "voice": "various"
+  },
+  {
+    "id": "MAG-01",
+    "title": "The Magician — 01 The Ground Of Magic V2",
+    "series": "magician",
+    "description": "An archetype study.",
+    "file": "audio/narrations/magician/MAG-01_the-ground-of-magic_v2.mp3",
+    "durationSecs": 43,
+    "status": "final",
+    "voice": "various"
+  },
+  {
+    "id": "MAG-01",
+    "title": "The Magician — 01 V2 Meditation Paced",
+    "series": "magician",
+    "description": "An archetype study.",
+    "file": "audio/narrations/magician/MAG-01_v2_meditation-paced.mp3",
+    "durationSecs": 65,
+    "status": "final",
+    "voice": "various"
+  },
+  {
+    "id": "MAG-01",
+    "title": "The Magician — 01 V2 S72",
+    "series": "magician",
+    "description": "An archetype study.",
+    "file": "audio/narrations/magician/MAG-01_v2_s72.mp3",
+    "durationSecs": 54,
+    "status": "final",
+    "voice": "various"
+  },
+  {
+    "id": "MAG-01",
+    "title": "The Magician — 01 V2 S80",
+    "series": "magician",
+    "description": "An archetype study.",
+    "file": "audio/narrations/magician/MAG-01_v2_s80.mp3",
+    "durationSecs": 48,
+    "status": "final",
+    "voice": "various"
+  },
+  {
+    "id": "MAG-01",
+    "title": "The Magician — 01 V2 Tight Pauses",
+    "series": "magician",
+    "description": "An archetype study.",
+    "file": "audio/narrations/magician/MAG-01_v2_tight-pauses.mp3",
+    "durationSecs": 58,
+    "status": "final",
+    "voice": "various"
+  },
+  {
+    "id": "MAG-01",
+    "title": "The Magician — 01 Voice Briggs S80",
+    "series": "magician",
+    "description": "An archetype study.",
+    "file": "audio/narrations/magician/MAG-01_voice_briggs_s80.mp3",
+    "durationSecs": 46,
+    "status": "final",
+    "voice": "various"
+  },
+  {
+    "id": "MAG-01",
+    "title": "The Magician — 01 Voice Nosugar S80",
+    "series": "magician",
+    "description": "An archetype study.",
+    "file": "audio/narrations/magician/MAG-01_voice_nosugar_s80.mp3",
+    "durationSecs": 54,
+    "status": "final",
+    "voice": "various"
+  },
+  {
+    "id": "MAG-01",
+    "title": "The Magician — 01 Voice Paloma S80",
+    "series": "magician",
+    "description": "An archetype study.",
+    "file": "audio/narrations/magician/MAG-01_voice_paloma_s80.mp3",
+    "durationSecs": 59,
+    "status": "final",
+    "voice": "various"
+  },
+  {
+    "id": "MAG-01",
+    "title": "The Magician — 01 Voice Truthteller S80",
+    "series": "magician",
+    "description": "An archetype study.",
+    "file": "audio/narrations/magician/MAG-01_voice_truthteller_s80.mp3",
+    "durationSecs": 58,
+    "status": "final",
+    "voice": "various"
+  },
+  {
+    "id": "MAG-02",
+    "title": "The Magician — 02 V2 Paced",
+    "series": "magician",
+    "description": "An archetype study.",
+    "file": "audio/narrations/magician/MAG-02_v2_paced.mp3",
+    "durationSecs": 60,
+    "status": "final",
+    "voice": "various"
+  },
+  {
+    "id": "MAG-03",
+    "title": "The Magician — 03 V2 Paced",
+    "series": "magician",
+    "description": "An archetype study.",
+    "file": "audio/narrations/magician/MAG-03_v2_paced.mp3",
+    "durationSecs": 56,
+    "status": "final",
+    "voice": "various"
+  },
+  {
+    "id": "MAG-04",
+    "title": "The Magician — 04 V2 Paced",
+    "series": "magician",
+    "description": "An archetype study.",
+    "file": "audio/narrations/magician/MAG-04_v2_paced.mp3",
+    "durationSecs": 61,
+    "status": "final",
+    "voice": "various"
+  },
+  {
+    "id": "MAG-05",
+    "title": "The Magician — 05 V2 Paced",
+    "series": "magician",
+    "description": "An archetype study.",
+    "file": "audio/narrations/magician/MAG-05_v2_paced.mp3",
+    "durationSecs": 59,
+    "status": "final",
+    "voice": "various"
+  },
+  {
+    "id": "OW",
+    "title": "Other Worlds",
+    "series": "cosmos",
+    "description": "The universe is not empty. It is crowded with neighbors.",
+    "file": "audio/narrations/other_worlds.mp3",
+    "durationSecs": 321,
+    "status": "draft",
+    "voice": "Aria"
+  },
+  {
+    "id": "LIGHT",
+    "title": "The Architecture of Light",
+    "series": "cosmos",
+    "description": "Love becomes light, light becomes the worlds.",
+    "file": "audio/narrations/atoms_and_light.mp3",
+    "durationSecs": 332,
+    "status": "draft",
+    "voice": "Aria"
+  },
+  {
+    "id": "WEATHER",
+    "title": "The Unseen Weather",
+    "series": "cosmos",
+    "description": "Not every storm is aimed at you. Steady the heart and walk on.",
+    "file": "audio/narrations/psychic_greetings.mp3",
+    "durationSecs": 323,
+    "status": "draft",
+    "voice": "Aria"
+  },
+  {
+    "id": "ADEPT1",
+    "title": "The Call",
+    "series": "adept",
+    "description": "Before the path, a voice. The first lesson is learning to listen.",
+    "file": "audio/narrations/adept_1_the_call.mp3",
+    "durationSecs": 300,
+    "status": "draft",
+    "voice": "Aria"
+  },
+  {
+    "id": "ADEPT2",
+    "title": "The Crucible",
+    "series": "adept",
+    "description": "The middle of the path is a forge, not a punishment.",
+    "file": "audio/narrations/adept_2_the_crucible.mp3",
+    "durationSecs": 339,
+    "status": "draft",
+    "voice": "Aria"
+  },
+  {
+    "id": "ADEPT3",
+    "title": "The Radiance",
+    "series": "adept",
+    "description": "What the servant becomes: the shining one, power aimed at service.",
+    "file": "audio/narrations/adept_3_the_radiance.mp3",
+    "durationSecs": 341,
+    "status": "draft",
+    "voice": "Aria"
+  },
+  {
+    "id": "MALDEK",
+    "title": "The World That Broke",
+    "series": "past",
+    "description": "Between Mars and Jupiter, rubble still testifies to a choice.",
+    "file": "audio/narrations/past_maldek.mp3",
+    "durationSecs": 369,
+    "status": "draft",
+    "voice": "Aria"
+  },
+  {
+    "id": "MARS",
+    "title": "The Red Desert",
+    "series": "past",
+    "description": "A planet of war that lost its water and learned to leave.",
+    "file": "audio/narrations/past_mars.mp3",
+    "durationSecs": 291,
+    "status": "draft",
+    "voice": "Aria"
+  },
+  {
+    "id": "ATLANTIS",
+    "title": "The Drowned Bells",
+    "series": "past",
+    "description": "Whether history or mirror: what happens when power forgets love.",
+    "file": "audio/narrations/past_atlantis.mp3",
+    "durationSecs": 291,
+    "status": "draft",
+    "voice": "Aria"
+  },
+  {
+    "id": "EGYPT",
+    "title": "The Stone That Remembers",
+    "series": "past",
+    "description": "A civilization that tried to build a hospital for the soul.",
+    "file": "audio/narrations/past_egypt.mp3",
+    "durationSecs": 286,
+    "status": "draft",
+    "voice": "Aria"
+  },
+  {
+    "id": "STONES",
+    "title": "The Stones That Sing",
+    "series": "practices",
+    "description": "Humanity's oldest technology: a stone, held with intention.",
+    "file": "audio/narrations/practice_stones.mp3",
+    "durationSecs": 307,
+    "status": "draft",
+    "voice": "Aria"
+  },
+  {
+    "id": "PYRAMIDS",
+    "title": "The Mountain of Initiation",
+    "series": "practices",
+    "description": "Where earth climbs toward heaven and heaven descends.",
+    "file": "audio/narrations/practice_pyramids.mp3",
+    "durationSecs": 255,
+    "status": "draft",
+    "voice": "Aria"
+  },
+  {
+    "id": "DISCIPLINES",
+    "title": "The Daily Work",
+    "series": "practices",
+    "description": "The ancients lived inside these questions. The water is still there.",
+    "file": "audio/narrations/practice_disciplines.mp3",
+    "durationSecs": 332,
+    "status": "draft",
+    "voice": "Aria"
+  },
+  {
+    "id": "OTHERS",
+    "title": "What the Others Do",
+    "series": "practices",
+    "description": "Different vocabularies, one grammar: the hidden order of things.",
+    "file": "audio/narrations/practice_others.mp3",
+    "durationSecs": 328,
+    "status": "draft",
+    "voice": "Aria"
+  }
+]
