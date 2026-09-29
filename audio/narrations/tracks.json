@@ -506,7 +506,7 @@
     "description": "The universe is not empty. It is crowded with neighbors.",
     "file": "audio/narrations/other_worlds.mp3",
     "durationSecs": 307,
-    "status": "draft",
+    "status": "final",
     "voice": "Aria"
   },
   {
@@ -516,7 +516,7 @@
     "description": "Love becomes light, light becomes the worlds.",
     "file": "audio/narrations/atoms_and_light.mp3",
     "durationSecs": 311,
-    "status": "draft",
+    "status": "final",
     "voice": "Aria"
   },
   {
@@ -526,7 +526,7 @@
     "description": "Not every storm is aimed at you. Steady the heart and walk on.",
     "file": "audio/narrations/psychic_greetings.mp3",
     "durationSecs": 302,
-    "status": "draft",
+    "status": "final",
     "voice": "Aria"
   },
   {
@@ -536,7 +536,7 @@
     "description": "Before the path, a voice. The first lesson is learning to listen.",
     "file": "audio/narrations/adept_1_the_call.mp3",
     "durationSecs": 296,
-    "status": "draft",
+    "status": "final",
     "voice": "Aria"
   },
   {
@@ -546,7 +546,7 @@
     "description": "The middle of the path is a forge, not a punishment.",
     "file": "audio/narrations/adept_2_the_crucible.mp3",
     "durationSecs": 321,
-    "status": "draft",
+    "status": "final",
     "voice": "Aria"
   },
   {
@@ -556,7 +556,7 @@
     "description": "What the servant becomes: the shining one, power aimed at service.",
     "file": "audio/narrations/adept_3_the_radiance.mp3",
     "durationSecs": 306,
-    "status": "draft",
+    "status": "final",
     "voice": "Aria"
   },
   {
@@ -566,7 +566,7 @@
     "description": "Between Mars and Jupiter, rubble still testifies to a choice.",
     "file": "audio/narrations/past_maldek.mp3",
     "durationSecs": 225,
-    "status": "draft",
+    "status": "final",
     "voice": "Aria"
   },
   {
@@ -576,7 +576,7 @@
     "description": "A planet of war that lost its water and learned to leave.",
     "file": "audio/narrations/past_mars.mp3",
     "durationSecs": 286,
-    "status": "draft",
+    "status": "final",
     "voice": "Aria"
   },
   {
@@ -586,7 +586,7 @@
     "description": "Whether history or mirror: what happens when power forgets love.",
     "file": "audio/narrations/past_atlantis.mp3",
     "durationSecs": 278,
-    "status": "draft",
+    "status": "final",
     "voice": "Aria"
   },
   {
@@ -596,7 +596,7 @@
     "description": "A civilization that tried to build a hospital for the soul.",
     "file": "audio/narrations/past_egypt.mp3",
     "durationSecs": 276,
-    "status": "draft",
+    "status": "final",
     "voice": "Aria"
   },
   {
@@ -606,7 +606,7 @@
     "description": "Humanity's oldest technology: a stone, held with intention.",
     "file": "audio/narrations/practice_stones.mp3",
     "durationSecs": 291,
-    "status": "draft",
+    "status": "final",
     "voice": "Aria"
   },
   {
@@ -616,7 +616,7 @@
     "description": "Where earth climbs toward heaven and heaven descends.",
     "file": "audio/narrations/practice_pyramids.mp3",
     "durationSecs": 300,
-    "status": "draft",
+    "status": "final",
     "voice": "Aria"
   },
   {
@@ -626,7 +626,7 @@
     "description": "The ancients lived inside these questions. The water is still there.",
     "file": "audio/narrations/practice_disciplines.mp3",
     "durationSecs": 330,
-    "status": "draft",
+    "status": "final",
     "voice": "Aria"
   },
   {
@@ -636,7 +636,7 @@
     "description": "Different vocabularies, one grammar: the hidden order of things.",
     "file": "audio/narrations/practice_others.mp3",
     "durationSecs": 332,
-    "status": "draft",
+    "status": "final",
     "voice": "Aria"
   }
 ]
