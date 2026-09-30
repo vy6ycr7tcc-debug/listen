@@ -110,10 +110,13 @@ html, body {
   font-size: 12px;
   color: rgba(230, 220, 200, 0.6);
   min-width: 40px;
+  flex-shrink: 0;
 }
 
 .progress-bar-wrapper {
-  flex-grow: 1;
+  position: relative;
+  flex: 1 1 0%;
+  min-width: 0;
   height: 44px; /* Accessible tap target */
   display: flex;
   align-items: center;
@@ -123,15 +126,21 @@ html, body {
 .progress-bar-wrapper::before {
   content: '';
   display: block;
-  width: 100%;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
   height: 2px;
   background: rgba(255, 225, 175, 0.2);
   border-radius: 2px;
-  position: relative;
 }
 
 .progress-bar {
   position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
   height: 2px;
   background: #ffe9c4;
   width: 0%;
