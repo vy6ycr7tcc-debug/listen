@@ -565,5 +565,35 @@
   "voice": "Aria",
   "durationSecs": 307,
   "status": "draft"
+ },
+ {
+  "id": "PRES1",
+  "title": "The Only Real Time",
+  "series": "present",
+  "description": "There is only now. Past and future as projections; the Sufi son of the moment, a Roman emperor, and the Buddhist return.",
+  "file": "audio/narrations/pres_1_only_real_time.mp3",
+  "durationSecs": 282,
+  "status": "draft",
+  "voice": "Aria"
+ },
+ {
+  "id": "PRES2",
+  "title": "The Door to Eternity",
+  "series": "present",
+  "description": "The present as the door to eternity. Egypt's still time, the mystic's now-moment, and the fountain of new creation.",
+  "file": "audio/narrations/pres_2_door_to_eternity.mp3",
+  "durationSecs": 284,
+  "status": "draft",
+  "voice": "Aria"
+ },
+ {
+  "id": "PRES3",
+  "title": "The Practice of Now",
+  "series": "present",
+  "description": "How to live there: clearing and returning. Meditation, the desert watchfulness, Daoist flowing, Sufi remembrance.",
+  "file": "audio/narrations/pres_3_practice_of_now.mp3",
+  "durationSecs": 310,
+  "status": "draft",
+  "voice": "Aria"
  }
 ]
