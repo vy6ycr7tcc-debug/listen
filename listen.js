@@ -28,6 +28,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     "Cosmos",
     "The Adept",
     "The Disciplines of the Personality",
+    "The Present Moment",
     "The Archive of Past Choices",
     "Ancient Practices"
   ];
@@ -64,6 +65,7 @@ document.addEventListener('DOMContentLoaded', async () => {
       "Cosmos": [],
       "The Adept": [],
       "The Disciplines of the Personality": [],
+      "The Present Moment": [],
       "The Archive of Past Choices": [],
       "Ancient Practices": []
     };
@@ -72,6 +74,7 @@ document.addEventListener('DOMContentLoaded', async () => {
       "cosmos": "Cosmos",
       "adept": "The Adept",
       "disciplines": "The Disciplines of the Personality",
+      "present": "The Present Moment",
       "past": "The Archive of Past Choices",
       "practices": "Ancient Practices"
     };
