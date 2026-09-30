@@ -638,5 +638,32 @@
     "durationSecs": 332,
     "status": "final",
     "voice": "Aria"
+  },
+  {
+    "id": "DISC1",
+    "title": "Know Yourself",
+    "series": "disciplines",
+    "file": "audio/narrations/disc_1_know_yourself.mp3",
+    "voice": "Aria",
+    "durationSecs": 329,
+    "status": "draft"
+  },
+  {
+    "id": "DISC2",
+    "title": "Accept Yourself",
+    "series": "disciplines",
+    "file": "audio/narrations/disc_2_accept_yourself.mp3",
+    "voice": "Aria",
+    "durationSecs": 325,
+    "status": "draft"
+  },
+  {
+    "id": "DISC3",
+    "title": "Become the Creator",
+    "series": "disciplines",
+    "file": "audio/narrations/disc_3_become_the_creator.mp3",
+    "voice": "Aria",
+    "durationSecs": 307,
+    "status": "draft"
   }
 ]
