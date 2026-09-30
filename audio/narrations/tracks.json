@@ -103,7 +103,7 @@
     "id": "HARDSHIP",
     "title": "The Gift of Hardship",
     "series": "evolution",
-    "description": "Suffering as the soul’s most demanding teacher.",
+    "description": "Suffering as the soul\u2019s most demanding teacher.",
     "file": "audio/narrations/the_gift_of_hardship.mp3",
     "durationSecs": 363,
     "status": "draft",
@@ -207,7 +207,7 @@
     "file": "audio/narrations/journey/J02_the_crossing.mp3",
     "durationSecs": 41,
     "status": "final",
-    "voice": "various"
+    "voice": "Aria"
   },
   {
     "id": "J03",
@@ -227,7 +227,7 @@
     "file": "audio/narrations/journey/J04_the_magician.mp3",
     "durationSecs": 40,
     "status": "final",
-    "voice": "various"
+    "voice": "Aria"
   },
   {
     "id": "J05",
@@ -247,7 +247,7 @@
     "file": "audio/narrations/journey/J06_the_empress.mp3",
     "durationSecs": 45,
     "status": "final",
-    "voice": "various"
+    "voice": "Aria"
   },
   {
     "id": "J07",
@@ -267,7 +267,7 @@
     "file": "audio/narrations/journey/J08_the_hierophant.mp3",
     "durationSecs": 48,
     "status": "final",
-    "voice": "various"
+    "voice": "Aria"
   },
   {
     "id": "J09",
@@ -287,7 +287,7 @@
     "file": "audio/narrations/journey/J10_the_chariot.mp3",
     "durationSecs": 49,
     "status": "final",
-    "voice": "various"
+    "voice": "Aria"
   },
   {
     "id": "J11",
@@ -361,7 +361,7 @@
   },
   {
     "id": "MAG-01",
-    "title": "The Magician — 01 The Ground Of Magic",
+    "title": "The Magician \u2014 01 The Ground Of Magic",
     "series": "magician",
     "description": "An archetype study.",
     "file": "audio/narrations/magician/MAG-01_the-ground-of-magic.mp3",
@@ -371,7 +371,7 @@
   },
   {
     "id": "MAG-01",
-    "title": "The Magician — 01 The Ground Of Magic V2",
+    "title": "The Magician \u2014 01 The Ground Of Magic V2",
     "series": "magician",
     "description": "An archetype study.",
     "file": "audio/narrations/magician/MAG-01_the-ground-of-magic_v2.mp3",
@@ -381,7 +381,7 @@
   },
   {
     "id": "MAG-01",
-    "title": "The Magician — 01 V2 Meditation Paced",
+    "title": "The Magician \u2014 01 V2 Meditation Paced",
     "series": "magician",
     "description": "An archetype study.",
     "file": "audio/narrations/magician/MAG-01_v2_meditation-paced.mp3",
@@ -391,7 +391,7 @@
   },
   {
     "id": "MAG-01",
-    "title": "The Magician — 01 V2 S72",
+    "title": "The Magician \u2014 01 V2 S72",
     "series": "magician",
     "description": "An archetype study.",
     "file": "audio/narrations/magician/MAG-01_v2_s72.mp3",
@@ -401,7 +401,7 @@
   },
   {
     "id": "MAG-01",
-    "title": "The Magician — 01 V2 S80",
+    "title": "The Magician \u2014 01 V2 S80",
     "series": "magician",
     "description": "An archetype study.",
     "file": "audio/narrations/magician/MAG-01_v2_s80.mp3",
@@ -411,7 +411,7 @@
   },
   {
     "id": "MAG-01",
-    "title": "The Magician — 01 V2 Tight Pauses",
+    "title": "The Magician \u2014 01 V2 Tight Pauses",
     "series": "magician",
     "description": "An archetype study.",
     "file": "audio/narrations/magician/MAG-01_v2_tight-pauses.mp3",
@@ -421,7 +421,7 @@
   },
   {
     "id": "MAG-01",
-    "title": "The Magician — 01 Voice Briggs S80",
+    "title": "The Magician \u2014 01 Voice Briggs S80",
     "series": "magician",
     "description": "An archetype study.",
     "file": "audio/narrations/magician/MAG-01_voice_briggs_s80.mp3",
@@ -431,7 +431,7 @@
   },
   {
     "id": "MAG-01",
-    "title": "The Magician — 01 Voice Nosugar S80",
+    "title": "The Magician \u2014 01 Voice Nosugar S80",
     "series": "magician",
     "description": "An archetype study.",
     "file": "audio/narrations/magician/MAG-01_voice_nosugar_s80.mp3",
@@ -441,7 +441,7 @@
   },
   {
     "id": "MAG-01",
-    "title": "The Magician — 01 Voice Paloma S80",
+    "title": "The Magician \u2014 01 Voice Paloma S80",
     "series": "magician",
     "description": "An archetype study.",
     "file": "audio/narrations/magician/MAG-01_voice_paloma_s80.mp3",
@@ -451,7 +451,7 @@
   },
   {
     "id": "MAG-01",
-    "title": "The Magician — 01 Voice Truthteller S80",
+    "title": "The Magician \u2014 01 Voice Truthteller S80",
     "series": "magician",
     "description": "An archetype study.",
     "file": "audio/narrations/magician/MAG-01_voice_truthteller_s80.mp3",
@@ -461,7 +461,7 @@
   },
   {
     "id": "MAG-02",
-    "title": "The Magician — 02 V2 Paced",
+    "title": "The Magician \u2014 02 V2 Paced",
     "series": "magician",
     "description": "An archetype study.",
     "file": "audio/narrations/magician/MAG-02_v2_paced.mp3",
@@ -471,7 +471,7 @@
   },
   {
     "id": "MAG-03",
-    "title": "The Magician — 03 V2 Paced",
+    "title": "The Magician \u2014 03 V2 Paced",
     "series": "magician",
     "description": "An archetype study.",
     "file": "audio/narrations/magician/MAG-03_v2_paced.mp3",
@@ -481,7 +481,7 @@
   },
   {
     "id": "MAG-04",
-    "title": "The Magician — 04 V2 Paced",
+    "title": "The Magician \u2014 04 V2 Paced",
     "series": "magician",
     "description": "An archetype study.",
     "file": "audio/narrations/magician/MAG-04_v2_paced.mp3",
@@ -491,7 +491,7 @@
   },
   {
     "id": "MAG-05",
-    "title": "The Magician — 05 V2 Paced",
+    "title": "The Magician \u2014 05 V2 Paced",
     "series": "magician",
     "description": "An archetype study.",
     "file": "audio/narrations/magician/MAG-05_v2_paced.mp3",
