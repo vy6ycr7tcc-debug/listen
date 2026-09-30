@@ -187,7 +187,7 @@
   "file": "audio/narrations/journey/J01_the_shore.mp3",
   "durationSecs": 46,
   "status": "final",
-  "voice": "various"
+  "voice": "Aria"
  },
  {
   "id": "J02",
@@ -205,9 +205,9 @@
   "series": "journey",
   "description": "A station on the crossing.",
   "file": "audio/narrations/journey/J03_arrival.mp3",
-  "durationSecs": 45,
+  "durationSecs": 43,
   "status": "final",
-  "voice": "various"
+  "voice": "Aria"
  },
  {
   "id": "J04",
@@ -225,9 +225,9 @@
   "series": "journey",
   "description": "A station on the crossing.",
   "file": "audio/narrations/journey/J05_the_high_priestess.mp3",
-  "durationSecs": 48,
+  "durationSecs": 51,
   "status": "final",
-  "voice": "various"
+  "voice": "Aria"
  },
  {
   "id": "J06",
@@ -245,9 +245,9 @@
   "series": "journey",
   "description": "A station on the crossing.",
   "file": "audio/narrations/journey/J07_the_emperor.mp3",
-  "durationSecs": 48,
+  "durationSecs": 50,
   "status": "final",
-  "voice": "various"
+  "voice": "Aria"
  },
  {
   "id": "J08",
@@ -265,9 +265,9 @@
   "series": "journey",
   "description": "A station on the crossing.",
   "file": "audio/narrations/journey/J09_the_lovers.mp3",
-  "durationSecs": 52,
+  "durationSecs": 49,
   "status": "final",
-  "voice": "various"
+  "voice": "Aria"
  },
  {
   "id": "J10",
@@ -285,9 +285,9 @@
   "series": "journey",
   "description": "A station on the crossing.",
   "file": "audio/narrations/journey/J11_the_return.mp3",
-  "durationSecs": 39,
+  "durationSecs": 40,
   "status": "final",
-  "voice": "various"
+  "voice": "Aria"
  },
  {
   "id": "L03",
