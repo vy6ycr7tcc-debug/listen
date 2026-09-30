@@ -27,6 +27,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     "Reflections",
     "Cosmos",
     "The Adept",
+    "The Disciplines of the Personality",
     "The Archive of Past Choices",
     "Ancient Practices"
   ];
@@ -62,6 +63,7 @@ document.addEventListener('DOMContentLoaded', async () => {
       "Reflections": [],
       "Cosmos": [],
       "The Adept": [],
+      "The Disciplines of the Personality": [],
       "The Archive of Past Choices": [],
       "Ancient Practices": []
     };
@@ -69,6 +71,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     const seriesNameMap = {
       "cosmos": "Cosmos",
       "adept": "The Adept",
+      "disciplines": "The Disciplines of the Personality",
       "past": "The Archive of Past Choices",
       "practices": "Ancient Practices"
     };
